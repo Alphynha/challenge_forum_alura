@@ -1,7 +1,7 @@
 # Forum Hub
 
 ## Descrição
-O **Forum Hub** é uma aplicação desenvolvida em Java com Spring Boot que oferece uma plataforma para gestão de tópicos de discussão relacionados a cursos. Os usuários podem criar tópicos, adicionar respostas e gerenciar o status dos tópicos (resolvido/não resolvido). A aplicação inclui autenticação e autorização baseadas em JWT, bem como integração com o banco de dados MySQL.
+O **Forum Hub** é uma aplicação desenvolvida em Java com Spring Boot que oferece uma plataforma para gestão de tópicos de discussão relacionados a cursos. Os usuários podem criar tópicos, adicionar respostas e gerenciar o status dos tópicos (resolvido/não resolvido).
 
 ---
 
@@ -11,7 +11,7 @@ O **Forum Hub** é uma aplicação desenvolvida em Java com Spring Boot que ofer
   - Spring Data JPA
   - Spring Security (JWT)
 - **MySQL**
-- 
+  
 ---
 
 ## Funcionalidades
